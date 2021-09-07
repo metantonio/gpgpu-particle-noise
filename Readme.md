@@ -9,5 +9,5 @@ $ npm install
 $ npm start
 ```
 #### Example Image:
-<img src="./example2.gif">
-![image](./example2.gif)
+<img align="center" src="./example2.gif">
+<!-- ![image](./example2.gif) -->
