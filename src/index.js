@@ -3,7 +3,7 @@ import { render, events } from '@react-three/fiber'
 import './styles.css'
 import App from './App'
 
-// https://barradeau.com/blog/?p=621
+// For more documentation, you can check this blog: https://barradeau.com/blog/?p=621
 // This examples needs WebGL1 (?)
 const gl = new THREE.WebGL1Renderer({
   canvas: document.querySelector('canvas'),
