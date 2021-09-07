@@ -1,4 +1,4 @@
-This is and example of how to use GPGPU to run process on graphics cards and not on CPU.
+This is an example of how to use GPGPU to run process on graphics cards and not on CPU.
 
 #### Install the npm packages:
 ```
